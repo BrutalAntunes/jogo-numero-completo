@@ -2,11 +2,6 @@
 
 Um joguinho simples feito em JavaScript puro pra treinar lógica de programação!
 
-## 📸 Preview
-
-![screenshot](./screenshot.png)  
-*Imagem opcional do jogo rodando*
-
 ## 🚀 Funcionalidades
 
 - 🧠 Gera um número aleatório
